@@ -1,16 +1,12 @@
 ---
-title: Whitepaper (v0.1)
+title: Whitepaper (v0.2)
 ---
-<img src="https://www.castledao.com/_next/image?url=%2Flogos%2FLogo_CastleDAO_text.png&w=2048&q=75" width="300" />
-
-<br/>
 
 
-
-> This Whitepaper is in revision until the publication of the CastleDAO protocol v1.0.0. The information provided here is subject to change.
+> This Whitepaper is in revision until the publication of the Castle protocol v1.0.0. The information provided here is subject to change.
 
 ## Introduction
-Slayers Of Moloch (name to be defined) is a game developed by CastleDAO. 
+Slayers Of Moloch is a game developed by CastleDAO. 
 
 It leverages NFTs and blockchain technology to generate permanent rewards and to create a new way to play and earn in the blockchain space.
 
@@ -35,7 +31,7 @@ With that said, we continue with our mission to create a fun, rewarding, and inc
 ## Gameplay
 Slayers Of Moloch is a strategy game where players can build their decks with a variety of NFT warriors. Each warrior has its own unique abilities and strengths that can be used to defeat other players in battle. Players can also use any other integrated collection in the game, unlocking them by burning RUBY tokens.
 
-The game and gameplay are evolving through time, and we encourage you to try our current implementation of the game at https://castledao.com, and to join our discord server to provide feedback and suggestions.
+The game and gameplay are evolving through time, and we encourage you to try our current implementation of the game at https://slayersofmoloch.com, and to join our discord server to provide feedback and suggestions.
 
 ## Competitions
 
@@ -92,7 +88,7 @@ The GreatVault is a smart contract that holds all the ERC20 fees accrued from th
 
 ## Phase 0
 
-As a way to thank the loyal players of CastleDAO, Slayers Of Moloch will distribute a portion of the initial RUBY tokens to historical CastleDAO players. These players will receive RUBY tokens based on their achievements in the original game, such as the number of battles won, milestones achieved, and NFT collections owned. This initial distribution is Slayers Of Moloch's way of recognizing the contribution of the CastleDAO community to the success of the game and welcoming them to the new adventure.
+As a way to thank the loyal players of Slayers Of Moloch (SoM), CastleDAO will distribute a portion of the initial RUBY tokens to historical SoM players. These players will receive RUBY tokens based on their achievements in the original game, such as the number of battles won, milestones achieved, and NFT collections owned. This initial distribution is CastleDAO's way of recognizing the contribution of the CastleDAO community to the success of the game and welcoming them to the new adventure.
 
 
 ## Phase 0 - Current

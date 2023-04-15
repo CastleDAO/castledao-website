@@ -48,6 +48,12 @@ export function Footer() {
         </div>
 
         <div className="link">
+          <Link href="/blog" title="Blog">
+            Blog
+          </Link>
+        </div>
+
+        <div className="link">
           <a href="https://gmx.io?ref=castledao">Trade on GMX!</a>
         </div>
 
