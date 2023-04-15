@@ -1,0 +1,57 @@
+{
+  "name": "castledao",
+  "version": "0.2.1",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 4000",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "test": "jest --config=jest.config.mjs --runInBand --watch",
+    "prettier": "prettier --write --cache ."
+  },
+  "dependencies": {
+    "@davatar/react": "^1.11.1",
+    "@next/font": "^13.0.2",
+    "@pinata/sdk": "^1.1.23",
+    "@rainbow-me/rainbowkit": "^0.7.4",
+    "@vercel/analytics": "^0.1.11",
+    "bignumber.js": "^9.0.1",
+    "date-fns": "^2.27.0",
+    "ethereum-ens": "^0.8.0",
+    "ethers": "^5.7.2",
+    "gray-matter": "^4.0.3",
+    "keccak256": "^1.0.6",
+    "markdown-it": "^12.3.2",
+
+    "next": "^13.3.0",
+    "nextjs-progressbar": "^0.0.11",
+    "randomstring": "^1.2.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-share": "^4.4.0",
+    "react-toastify": "^8.0.3",
+    "react-tooltip": "^5.4.0",
+    "react-transition-group": "^4.4.2",
+    "react-virtualized-auto-sizer": "^1.0.6",
+    "react-window": "^1.8.6",
+    "react-zoom-pan-pinch": "^2.1.3",
+    "roman-numbers": "^1.0.1",
+    "styled-jsx": "^4.0.1",
+    "swr": "^1.3.0",
+    "wagmi": "^0.7.13"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^14.0.0",
+    "@types/jest": "^29.5.0",
+    "@types/react": "^18.0.25",
+    "copy-webpack-plugin": "^9.0.1",
+    "eslint": "7.32.0",
+    "eslint-config-next": "^13.3.0",
+    "jest": "^29.5.0",
+    "jest-environment-jsdom": "^29.5.0",
+    "prettier": "^2.8.4",
+    "typescript": "^4.7.4"
+  }
+}

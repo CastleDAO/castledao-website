@@ -1,0 +1,13 @@
+dist
+dev-dist
+build
+node_modules
+.github
+hardhat/cache
+pnpm-lock.yaml
+coverage
+*.md 
+.next
+docs
+*.json
+yarn.*
